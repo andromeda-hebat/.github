@@ -1,2 +1,0 @@
-# .github
-Andromeda's profile
